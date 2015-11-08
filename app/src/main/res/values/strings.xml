@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsChannelplayer</string>
+    <string name="TV9">TV9 KANNADA</string>
+    <string name="BTV">BTV KANNADA</string>
+    <string name="SUVARNANEWS">SUVARNA NEWS 2X7</string>
+    <string name="PUBLICTV">PUBLIC TV</string>
+    <string name="JANASHREE">JANASHREE</string>
+
+    <string name="KASTURINEWS">KASTURI NEWS</string>
+
+</resources>
