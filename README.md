@@ -9,6 +9,19 @@ Clone the git repository available here on github.
 
 https://github.com/kusha-b-k/KannadaNewsAPP
 
+#Permited
+commercial-use - This software and derivatives may be used for commercial purposes.
+
+modifications - This software may be modified.
+
+distribution - You may distribute this software.
+
+sublicense - You may grant a sublicense to modify and distribute this software to third parties not included in the license.
+
+private-use - You may use and modify the software without distributing it.
+
+patent-use - This license provides an express grant of patent rights from the contributor to the recipient.
+
 
 
 
