@@ -1,6 +1,9 @@
 #KannadaNewsAPP
 Android Application
 
+#developed by kusha bk
+
+
 #About
 simple KANNADA NEWS CHANNELS APP
 
