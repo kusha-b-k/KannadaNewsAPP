@@ -1,3 +1,12 @@
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="KannadaNewsAPP ,simple KANNADA NEWS CHANNELS APP">
+<meta name="keywords" content="kushabk,kusha bk,kusha b k,KannadaNewsAPP,suvarna new 24x7,suvarna news,suvarna news 24x7 today,tv9 kannada app,tv9 kannada,public tv,public tv live streaming,public tv kannada,public tv android app">
+<meta name="author" content="kusha bk">
+<meta http-equiv="refresh" content="30">
+</head>
+
+
 #KannadaNewsAPP
 Android Application
 
