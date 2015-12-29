@@ -13,7 +13,7 @@ Android Application
 #developed by kusha bk
 
 
-#About
+##About
 simple KANNADA NEWS CHANNELS APP
 
 #Get the code
