@@ -14,7 +14,7 @@ Android Application
 
 
 ##About
-simple KANNADA NEWS CHANNELS APP
+        simple KANNADA NEWS CHANNELS APP, 
 
 #Get the code
 Clone the git repository available here on github. 
@@ -22,7 +22,7 @@ Clone the git repository available here on github.
 https://github.com/kusha-b-k/KannadaNewsAPP
 
 #Permited
-commercial-use - This software and derivatives may be used for commercial purposes.
+
 
 modifications - This software may be modified.
 
