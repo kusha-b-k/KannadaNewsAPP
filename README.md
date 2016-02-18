@@ -10,7 +10,6 @@
 #KannadaNewsAPP
 Android Application
 
-#developed by kusha b k
 
 
 ##About
