@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         tv9.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View v) {
-
+//channel uri
               String s="<iframe width=\"auto\" height=\"auto\" src=\"https://www.youtube.com/embed/DXp_0D6Dr_4\" frameborder=\"0\" allowfullscreen></iframe>";
                 Intent intent = new Intent(context, Tvplayer.class);
                 intent.putExtra("message",s);
@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
         publ.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
+                //channel uir
                 String s = "<iframe width=\"auto\" height=\"auto\" src=\"https://www.youtube.com/embed/iESOT3MmsSg\" frameborder=\"0\" allowfullscreen></iframe>";
 
                 Intent intent = new Intent(context, Tvplayer.class);
@@ -71,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
         suva.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
+//channel uri
                 String s = "<iframe width=\"auto\" height=\"auto\" src=\"https://www.youtube.com/embed/FCqzOHNsfXI\" frameborder=\"0\" allowfullscreen></iframe>";
 
                 Intent intent = new Intent(context, Tvplayer.class);
